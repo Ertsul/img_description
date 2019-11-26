@@ -3,18 +3,8 @@
 //   tagId: 'img-box',
 //   img: {
 //     url: "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2018939532,1617516463&fm=26&gp=0.jpg",
-//     properties: { // 图片样式
-//       width: 80,
-//       height: 80
-//     }
 //   },
-//   description: [{
-//     txt: '1111',
-//     properties: { // 字体样式
-//       fontSize: 26,
-//       color: "skyBlue",
-//     }
-//   }]
+//   description: [txt: '1111',]
 // }
 
 /**
